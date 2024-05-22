@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Collections\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Collections\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Collections\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Collections\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Collections\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Collections\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\Admin\Desktop\KonovalovaV_GUN27_Collections\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
